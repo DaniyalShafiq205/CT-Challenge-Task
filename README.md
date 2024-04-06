@@ -20,6 +20,8 @@ Clone the repository to your local machine
 ```bash
   git clone <repository-url>
 ```
+[Github Repo Link](https://github.com/DaniyalShafiq205/CT-Challenge-Task/tree/master)
+
 
 Navigate to the project directory
 
