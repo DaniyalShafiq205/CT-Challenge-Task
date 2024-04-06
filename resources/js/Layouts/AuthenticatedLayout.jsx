@@ -19,7 +19,7 @@ export default function Authenticated({ user, header, children }) {
                                     <ApplicationLogo className="block h-9 w-auto fill-current text-gray-800" />
                                 </Link>
                             </div>
-                            <div class="hidden  sm:-my-px sm:ms-10 sm:flex" style={{ "margin-top": "1rem", "font-weight": "600", "margin-left": "0.5rem", "font-size": "x-large" }}>Task Management Portal</div>
+                            <div class="hidden  sm:-my-px sm:ms-10 sm:flex" style={{ "margin-top": "1rem", "font-weight": "600", "margin-left": "0.5rem", "fontSize": "x-large" }}>Task Management Portal</div>
                         </div>
 
                         <div className="hidden sm:flex sm:items-center sm:ms-6">

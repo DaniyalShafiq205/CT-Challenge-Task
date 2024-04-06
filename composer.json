@@ -51,6 +51,7 @@
             "@php artisan migrate --graceful --ansi"
         ],
         "sail-up": [
+            "@composer install",
             "./vendor/bin/sail up -d"
         ],
         "sail-down": [
